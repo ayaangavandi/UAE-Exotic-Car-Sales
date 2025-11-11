@@ -112,5 +112,3 @@ If you'd like to collaborate or explore similar Power BI dashboards:
 🔗 [LinkedIn](https://www.linkedin.com/in/ayaan-gavandi-a16202218/)  
 📧 [Email](mailto:ayaangavandi33@gmail.com)
 
----
-# UAE-Exotic-Car-Sales
