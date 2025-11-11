@@ -96,7 +96,12 @@ Clicking on any model updates:
 
 ## 📷 Dashboard Preview
 
-_Add your screenshots or GIFs here_
+<img width="1651" height="927" alt="Overview Page" src="https://github.com/user-attachments/assets/55cf0845-9cb4-4a42-9f4f-b7f7c9d628dc" />
+
+<img width="1647" height="927" alt="Dashboard Page" src="https://github.com/user-attachments/assets/4422d112-d905-4e6d-8ab0-baee042da226" />
+
+<img width="1647" height="922" alt="Showroom Page" src="https://github.com/user-attachments/assets/2b7bf2a3-ebc7-429b-b2ab-56d6d0de4883" />
+
 
 ---
 
@@ -104,8 +109,8 @@ _Add your screenshots or GIFs here_
 
 If you'd like to collaborate or explore similar Power BI dashboards:
 
-LinkedIn: *your link*  
-GitHub: *your profile*
+🔗 [LinkedIn](https://www.linkedin.com/in/ayaan-gavandi-a16202218/)  
+📧 [Email](mailto:ayaangavandi33@gmail.com)
 
 ---
 # UAE-Exotic-Car-Sales
