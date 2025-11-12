@@ -96,6 +96,8 @@ Clicking on any model updates:
 
 ## 📷 Dashboard Preview
 
+**[Download PowerBI Dashboard]** (https://drive.google.com/file/d/1wMs5swLuV1aYQFR85tu_A7G5RvmS2Cg7/view?usp=sharing)
+
 <img width="1651" height="927" alt="Overview Page" src="https://github.com/user-attachments/assets/55cf0845-9cb4-4a42-9f4f-b7f7c9d628dc" />
 
 <img width="1647" height="927" alt="Dashboard Page" src="https://github.com/user-attachments/assets/4422d112-d905-4e6d-8ab0-baee042da226" />
